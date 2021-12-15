@@ -1,0 +1,48 @@
+
+
+
+li {
+    padding: 15px;
+}
+
+
+li a:hover {
+    color: #4E3524;
+}
+
+.navbar-brand{
+    padding-right: 10px;
+    background-color:transparent ;
+    border: 3px solid #4E3524;
+    border-radius: 20px;
+    width: 100px;
+    height: 35px;
+    justify-content: center;
+    text-align: center;
+}
+
+.container{
+    justify-content: center;
+}
+
+span{
+    color: white;
+}
+
+.d-flex input{
+    border-radius: 50px;
+    width: 150px;
+    height: 30px;
+    position: relative;
+    outline: none;
+    background-color: white;
+}
+
+.d-flex .far{
+    position: absolute;
+    color: black;
+    justify-content: center;
+    text-align: center;
+    padding: 7px;
+    z-index: 1;
+}
